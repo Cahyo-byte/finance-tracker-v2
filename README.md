@@ -1,18 +1,31 @@
-# Finance Tracker
+# FinanceTrack
 
-MVP Finance Tracker dengan React + Vite.
+FinanceTrack adalah website sederhana untuk membantu mengelola keuangan pribadi dengan lebih teratur.
 
-## Jalankan
+## ✨ Fitur
+
+- 💰 Mencatat pemasukan
+- 💸 Mencatat pengeluaran
+- 📊 Pembagian dana berdasarkan persentase
+- 🏦 Alokasi tabungan
+- 📈 Alokasi investasi
+- 🎯 Target tabungan
+- ✏️ Edit transaksi dan target
+- 🗑️ Hapus transaksi dan target
+- 🔄 Reset data
+- 💾 Penyimpanan data menggunakan LocalStorage
+- 📱 Responsive
+
+## 🛠️ Teknologi
+
+- React
+- Vite
+- JavaScript
+- CSS
+- LocalStorage
+
+## 🚀 Menjalankan Project
+
 ```bash
 npm install
 npm run dev
-```
-
-## Fitur
-- Dashboard pemasukan, pengeluaran, tabungan, investasi
-- Pembagian pemasukan berdasarkan persentase
-- Transaksi: tambah, edit, hapus
-- Target tabungan: tambah, edit, reset progres, hapus
-- Reset semua data
-- Data tersimpan di localStorage
-- Responsive
